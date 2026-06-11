@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Demi 👋 
 
-<!--
-**Demi-Omoremi/Demi-Omoremi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at Virginia Tech focused on backend development and cloud-native applications.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔭 What I'm Currently Working On
+* Building full-stack side projects and scaling backend applications.
+
+
+### 🛠️ Tools & Technologies I Use
+* **Languages:** Java, Python, SQL, JavaScript, TypeScript 
+* **Backend & Cloud:** Spring Boot, Apache Kafka, Redis, PostgreSQL, Docker, AWS 
+* **Frontend:** Next.js, React, Cesium.JS 
+
+
+### 📫 How to Reach Me
+* **LinkedIn:** [linkedin.com/in/demiomoremi](https://linkedin.com/in/demiomoremi)
